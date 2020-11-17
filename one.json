@@ -1,0 +1,7 @@
+<script>
+    var gareen = {"name": "盖伦", "hp":616};
+    document.write("这是一个JSON对象: " + gareen);
+
+    document.write("英雄名称: " + gareen.name + "<br>");
+    document.write("英雄血量: " + gareen.hp + "<br>");
+</script>

@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\StudioL\\IDEACode\\json_all-master\\commons-beanutils.jar",
+        "e:\\StudioL\\IDEACode\\json_all-master\\commons-collections-3.0.jar",
+        "e:\\StudioL\\IDEACode\\json_all-master\\commons-lang-2.1.jar",
+        "e:\\StudioL\\IDEACode\\json_all-master\\commons-logging.jar",
+        "e:\\StudioL\\IDEACode\\json_all-master\\ezmorph-1.0.2.jar",
+        "e:\\StudioL\\IDEACode\\json_all-master\\json-lib-1.1-jdk13.jar"
+    ]
+}
